@@ -2000,12 +2000,8 @@ XeonBotInc.sendMessage(from, { text: `*${command}*\n\n مـنشـن : ${q}\nال
       case 'نوب':
       case 'نسوانجي':
       case 'خروف':
-      case '':
+     
       case 'عسل':
-      case '':
-      case '':
-      case '':
-      case '':
       case 'كيوت':
       case 'لطيف':
       case 'ظريف': {
@@ -8827,7 +8823,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 								"title": "Bot Features ❤️",
 								"rows": [
 									{
-										"title": "All Menu 🥀",
+										"title": "All Menu ??",
 										"description": "Displays The List Of All The Features!",
 										"rowId": `${prefix}allmenu`
 									},
